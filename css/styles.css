@@ -1,3 +1,12 @@
 h1 {
 	color:red;
 }
+
+.list {
+	list-style-type:none;
+}
+
+li:hover {
+	cursor: pointer;
+	color: red;
+}
